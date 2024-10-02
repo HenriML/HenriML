@@ -1,7 +1,7 @@
 ### Olá, sou o Henrique Munhoz Leite 😊
 #### Tenho 25 anos e sou Desenvolvedor/Analista 🖥️
 
-#### Este é meu GitHub onde disponibilizei meus projetos pessoais, projetos de faculdade e de trabalho.
+#### Este é meu novo GitHub onde disponibilizei meus projetos pessoais, projetos de faculdade e de trabalho.
 
 #### 📫 Meu e-mail de contato é: munhozhenrique99@hotmail.com
 
