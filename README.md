@@ -49,5 +49,9 @@
 <img align="center" alt="" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img align="center" alt="" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 <img align="center" alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="center" alt="" src="https://img.shields.io/badge/DBeaver-8B4513?style=for-the-badge&logo=dbeaver&logoColor=white" />
+
+
+
 
 </div>
